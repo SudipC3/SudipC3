@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47qghrxfu8c0d7fvmuj6inbljsjddinrwz30zshom8&rid=giphy.gif&ct=g)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkUCMSKMo15L7b8P7yWMp-tRfrvNgLzrmkVRSCMwMfrSd3SFy2XgXhOlW7-8M62DRHDsrGwqTiHuDHu9YywlQnu-XE8u1gATKBfodGz7mV0p9WKEiN-290n4Lo1tpcNwpPbCsQ8LgfoVwr3K-CVVGUaziIUL7YEoJbepBtpqp437rDzBaQ9-ZsXLdo/s16000/github-banner.gif)
 <h1 align="center">Hi 👋, I'm Sudip</h1>
 <h3 align="center">A Web development enthusiasts</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b37b5d381915e880518345006059bc1d7b1b0023&rid=giphy.gif&ct=g" > -->
